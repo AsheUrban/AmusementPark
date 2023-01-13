@@ -19,7 +19,7 @@ _Link to assignment:_ https://www.learnhowtoprogram.com/introduction-to-programm
 
 ## Setup/Installation Requirements
 
-* _clone or download responsitory to your local_
+Clone or download to your local repository. No special setup or configuration.
 
 ## Known Bugs
 
